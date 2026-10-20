@@ -1,0 +1,14 @@
+torch>=2.2
+transformers>=4.40
+sentencepiece
+protobuf
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.3
+statsmodels>=0.14
+uharfbuzz>=0.40
+freetype-py>=2.4
+Pillow>=10
+matplotlib>=3.8
+pytest
