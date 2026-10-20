@@ -1,0 +1,62 @@
+[
+  {
+    "model_id": "Hate-speech-CNERG/bengali-abusive-MuRIL",
+    "model_type": "bert",
+    "tokenizer": "BertTokenizer",
+    "normalizer": "BertNormalizer(clean_text=True, handle_chinese_chars=True, strip_accents=False, lowercase=True)",
+    "n": 600,
+    "orientation": "LABEL_1=harmful",
+    "accuracy": 0.8633,
+    "macro_f1": 0.8622,
+    "harmful_recall": 0.7733,
+    "mean_max_prob": 0.956,
+    "seconds": 116.5
+  },
+  {
+    "model_id": "saroarj/BanglaHateBert",
+    "model_type": "electra",
+    "tokenizer": "BertTokenizer",
+    "normalizer": "BertNormalizer(clean_text=True, handle_chinese_chars=False, strip_accents=None, lowercase=False)",
+    "n": 600,
+    "orientation": "LABEL_1=harmful",
+    "accuracy": 0.5,
+    "macro_f1": 0.3333,
+    "harmful_recall": 0.0,
+    "mean_max_prob": 0.543,
+    "seconds": 109.4
+  },
+  {
+    "model_id": "DipsankarSinha/bangla-hatespeech-analysis",
+    "model_type": "electra",
+    "tokenizer": "BertTokenizer",
+    "normalizer": "BertNormalizer(clean_text=True, handle_chinese_chars=True, strip_accents=None, lowercase=True)",
+    "n": 600,
+    "orientation": "LABEL_1=harmful",
+    "accuracy": 0.5,
+    "macro_f1": 0.3333,
+    "harmful_recall": 1.0,
+    "mean_max_prob": 0.945,
+    "seconds": 130.8
+  },
+  {
+    "model_id": "tajuarAkash/enhanced-banglabert-hate-speech",
+    "model_type": "electra",
+    "tokenizer": "BertTokenizer",
+    "normalizer": "BertNormalizer(clean_text=True, handle_chinese_chars=False, strip_accents=None, lowercase=False)",
+    "n": 600,
+    "orientation": "LABEL_1=harmful",
+    "accuracy": 0.7233,
+    "macro_f1": 0.7079,
+    "harmful_recall": 0.9533,
+    "mean_max_prob": 0.748,
+    "seconds": 200.1
+  },
+  {
+    "model_id": "arnabmukhopadhyay/bangla-bert-base-hate-speech-ben",
+    "error": "num_labels=5"
+  },
+  {
+    "model_id": "fahadali32/bangla-hate-speech-distilbert",
+    "error": "num_labels=6"
+  }
+]

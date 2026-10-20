@@ -1,0 +1,286 @@
+{
+  "F1": {
+    "1": {
+      "kalpurush": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 0.9997,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 0.9997,
+        "perceptible": 1,
+        "errors": 0
+      }
+    },
+    "3": {
+      "kalpurush": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 0.9997,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 0.9997,
+        "perceptible": 1,
+        "errors": 0
+      }
+    },
+    "len": {
+      "kalpurush": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 0.9997,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 3742,
+        "identical": 0.9997,
+        "identical_or_near": 0.9997,
+        "perceptible": 1,
+        "errors": 0
+      }
+    }
+  },
+  "F2": {
+    "1": {
+      "kalpurush": {
+        "n": 4897,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "noto": {
+        "n": 4897,
+        "identical": 0.9994,
+        "identical_or_near": 0.9994,
+        "perceptible": 3,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 4897,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      }
+    },
+    "3": {
+      "kalpurush": {
+        "n": 4897,
+        "identical": 0.9998,
+        "identical_or_near": 0.9998,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 4897,
+        "identical": 0.9978,
+        "identical_or_near": 0.9978,
+        "perceptible": 11,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 4897,
+        "identical": 0.9998,
+        "identical_or_near": 0.9998,
+        "perceptible": 1,
+        "errors": 0
+      }
+    },
+    "len": {
+      "kalpurush": {
+        "n": 4897,
+        "identical": 0.9998,
+        "identical_or_near": 0.9998,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 4897,
+        "identical": 0.9982,
+        "identical_or_near": 0.9982,
+        "perceptible": 9,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 4897,
+        "identical": 0.9998,
+        "identical_or_near": 0.9998,
+        "perceptible": 1,
+        "errors": 0
+      }
+    }
+  },
+  "F2nbsp": {
+    "1": {
+      "kalpurush": {
+        "n": 4875,
+        "identical": 0.9998,
+        "identical_or_near": 0.9998,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 4875,
+        "identical": 0.9998,
+        "identical_or_near": 0.9998,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 4875,
+        "identical": 0.9998,
+        "identical_or_near": 0.9998,
+        "perceptible": 1,
+        "errors": 0
+      }
+    },
+    "3": {
+      "kalpurush": {
+        "n": 4875,
+        "identical": 0.9992,
+        "identical_or_near": 0.9992,
+        "perceptible": 4,
+        "errors": 0
+      },
+      "noto": {
+        "n": 4875,
+        "identical": 0.9992,
+        "identical_or_near": 0.9992,
+        "perceptible": 4,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 4875,
+        "identical": 0.9992,
+        "identical_or_near": 0.9992,
+        "perceptible": 4,
+        "errors": 0
+      }
+    },
+    "len": {
+      "kalpurush": {
+        "n": 4875,
+        "identical": 0.9994,
+        "identical_or_near": 0.9994,
+        "perceptible": 3,
+        "errors": 0
+      },
+      "noto": {
+        "n": 4875,
+        "identical": 0.9994,
+        "identical_or_near": 0.9994,
+        "perceptible": 3,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 4875,
+        "identical": 0.9994,
+        "identical_or_near": 0.9994,
+        "perceptible": 3,
+        "errors": 0
+      }
+    }
+  },
+  "F5": {
+    "1": {
+      "kalpurush": {
+        "n": 77,
+        "identical": 0.987,
+        "identical_or_near": 0.987,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 77,
+        "identical": 0.987,
+        "identical_or_near": 0.987,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 77,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "perceptible": 77,
+        "errors": 0
+      }
+    },
+    "3": {
+      "kalpurush": {
+        "n": 77,
+        "identical": 0.987,
+        "identical_or_near": 0.987,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 77,
+        "identical": 0.987,
+        "identical_or_near": 0.987,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 77,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "perceptible": 77,
+        "errors": 0
+      }
+    },
+    "len": {
+      "kalpurush": {
+        "n": 77,
+        "identical": 0.987,
+        "identical_or_near": 0.987,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 77,
+        "identical": 0.987,
+        "identical_or_near": 0.987,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 77,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "perceptible": 77,
+        "errors": 0
+      }
+    }
+  }
+}

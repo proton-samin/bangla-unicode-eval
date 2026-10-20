@@ -1,0 +1,51 @@
+dataset,group,subfamily,evasion_mean,evasion_sd,k_pooled,n_pooled
+bdshs,own XLM-R,F2_zwnj,0.061313674452398735,0.0019014144305775254,410,6687
+bdshs,own XLM-R,F2_zwj,0.05742506295971663,0.0022924390413167958,384,6687
+bdshs,own XLM-R,F2_zwsp,0.053836009512349965,0.0022926841254774467,360,6687
+bdshs,own XLM-R,F2_wj,0.029759238488906464,0.0016919369268509558,199,6687
+bdshs,own XLM-R,F2_shy,0.0203387771049175,0.0024461969195826395,136,6687
+bdshs,own MuRIL,F2_zwnj,0.0,0.0,0,6703
+bdshs,own MuRIL,F2_zwj,0.0,0.0,0,6703
+bdshs,own MuRIL,F2_zwsp,0.0,0.0,0,6703
+bdshs,own MuRIL,F2_wj,0.0,0.0,0,6703
+bdshs,own MuRIL,F2_shy,0.0,0.0,0,6703
+bdshs,own BanglaBERT,F2_zwnj,0.0,0.0,0,6610
+bdshs,own BanglaBERT,F2_zwj,0.0,0.0,0,6610
+bdshs,own BanglaBERT,F2_zwsp,0.0,0.0,0,6610
+bdshs,own BanglaBERT,F2_wj,0.0,0.0,0,6610
+bdshs,own BanglaBERT,F2_shy,0.0,0.0,0,6610
+bdshs,public MuRIL (M1),F2_zwnj,0.0,0.0,0,1880
+bdshs,public MuRIL (M1),F2_zwj,0.0,0.0,0,1880
+bdshs,public MuRIL (M1),F2_zwsp,0.0,0.0,0,1880
+bdshs,public MuRIL (M1),F2_wj,0.0,0.0,0,1880
+bdshs,public MuRIL (M1),F2_shy,0.0,0.0,0,1880
+bdshs,public BanglaBERT (M2),F2_zwnj,0.0,0.0,0,2121
+bdshs,public BanglaBERT (M2),F2_zwj,0.0,0.0,0,2121
+bdshs,public BanglaBERT (M2),F2_zwsp,0.0,0.0,0,2121
+bdshs,public BanglaBERT (M2),F2_wj,0.0,0.0,0,2121
+bdshs,public BanglaBERT (M2),F2_shy,0.0,0.0,0,2121
+blp25,own XLM-R,F2_zwnj,0.09789406711579067,0.0056678275013892524,411,4195
+blp25,own XLM-R,F2_zwj,0.10336187359794459,0.007537558891236222,434,4195
+blp25,own XLM-R,F2_zwsp,0.11052139136450306,0.0061044079523643975,464,4195
+blp25,own XLM-R,F2_wj,0.08463653180943041,0.009018135954698001,355,4195
+blp25,own XLM-R,F2_shy,0.06278241662025447,0.011312133925157522,264,4195
+blp25,own MuRIL,F2_zwnj,0.0,0.0,0,4154
+blp25,own MuRIL,F2_zwj,0.0,0.0,0,4154
+blp25,own MuRIL,F2_zwsp,0.0,0.0,0,4154
+blp25,own MuRIL,F2_wj,0.0,0.0,0,4154
+blp25,own MuRIL,F2_shy,0.0,0.0,0,4154
+blp25,own BanglaBERT,F2_zwnj,0.0,0.0,0,4333
+blp25,own BanglaBERT,F2_zwj,0.0,0.0,0,4333
+blp25,own BanglaBERT,F2_zwsp,0.0,0.0,0,4333
+blp25,own BanglaBERT,F2_wj,0.0,0.0,0,4333
+blp25,own BanglaBERT,F2_shy,0.0,0.0,0,4333
+blp25,public MuRIL (M1),F2_zwnj,0.0,0.0,0,859
+blp25,public MuRIL (M1),F2_zwj,0.0,0.0,0,859
+blp25,public MuRIL (M1),F2_zwsp,0.0,0.0,0,859
+blp25,public MuRIL (M1),F2_wj,0.0,0.0,0,859
+blp25,public MuRIL (M1),F2_shy,0.0,0.0,0,859
+blp25,public BanglaBERT (M2),F2_zwnj,0.0,0.0,0,3437
+blp25,public BanglaBERT (M2),F2_zwj,0.0,0.0,0,3437
+blp25,public BanglaBERT (M2),F2_zwsp,0.0,0.0,0,3437
+blp25,public BanglaBERT (M2),F2_wj,0.0,0.0,0,3437
+blp25,public BanglaBERT (M2),F2_shy,0.0,0.0,0,3437

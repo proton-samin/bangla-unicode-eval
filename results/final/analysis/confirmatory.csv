@@ -1,0 +1,11 @@
+hypothesis,k,n,estimate,p_raw,p_holm,reject_at_0.05,model
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,1880.0,0.0,1.0,1.0,False,Hate-speech-CNERG/bengali-abusive-MuRIL
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,Hate-speech-CNERG/bengali-abusive-MuRIL
+"H1/H2 F5: evasion > 1% at budget 3, D0",1.0,26.0,0.038461538461538464,0.2299568541948447,0.9198274167793788,False,Hate-speech-CNERG/bengali-abusive-MuRIL
+H3 F5: BN-norm evasion < D0 evasion (McNemar),1.0,1.0,0.038461538461538464,1.0,1.0,False,Hate-speech-CNERG/bengali-abusive-MuRIL
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,0.06126199714110436,,,True,Hate-speech-CNERG/bengali-abusive-MuRIL
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,2121.0,0.0,1.0,1.0,False,tajuarAkash/enhanced-banglabert-hate-speech
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,tajuarAkash/enhanced-banglabert-hate-speech
+"H1/H2 F5: evasion > 1% at budget 3, D0",0.0,33.0,0.0,1.0,1.0,False,tajuarAkash/enhanced-banglabert-hate-speech
+H3 F5: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,tajuarAkash/enhanced-banglabert-hate-speech
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,-0.16336532570961904,,,True,tajuarAkash/enhanced-banglabert-hate-speech

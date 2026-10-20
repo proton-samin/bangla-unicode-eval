@@ -1,0 +1,38 @@
+{
+  "args": {
+    "base": "google/muril-base-cased",
+    "seed": 2,
+    "out": "/kaggle/working/models/muril_seed2",
+    "epochs": 3,
+    "lr": 2e-05,
+    "bs": 32,
+    "max_length": 128,
+    "limit": 0,
+    "dataset": "bdshs"
+  },
+  "device": "cuda",
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 0.36245123924674166,
+      "val_macro_f1": 0.9175526129338554,
+      "val_acc": 0.9178599840891011,
+      "seconds": 289.9897925853729
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.20565578078313204,
+      "val_macro_f1": 0.9215970917067289,
+      "val_acc": 0.9216388225934765,
+      "seconds": 289.70572996139526
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.16242722233990023,
+      "val_macro_f1": 0.9200080417156082,
+      "val_acc": 0.9200477326968973,
+      "seconds": 289.1259355545044
+    }
+  ],
+  "best_val_macro_f1": 0.9215970917067289
+}

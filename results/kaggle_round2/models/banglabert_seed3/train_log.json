@@ -1,0 +1,38 @@
+{
+  "args": {
+    "base": "csebuetnlp/banglabert",
+    "seed": 3,
+    "out": "/kaggle/working/models/banglabert_seed3",
+    "epochs": 3,
+    "lr": 2e-05,
+    "bs": 32,
+    "max_length": 128,
+    "limit": 0,
+    "dataset": "bdshs"
+  },
+  "device": "cuda",
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 0.3235683442110473,
+      "val_macro_f1": 0.8982749394978694,
+      "val_acc": 0.8983691328560064,
+      "seconds": 209.29986834526062
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.20723557671385334,
+      "val_macro_f1": 0.8985448392340767,
+      "val_acc": 0.8985680190930787,
+      "seconds": 207.6480586528778
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.15735646039128967,
+      "val_macro_f1": 0.9011167378110609,
+      "val_acc": 0.9011535401750199,
+      "seconds": 208.78097915649414
+    }
+  ],
+  "best_val_macro_f1": 0.9011167378110609
+}

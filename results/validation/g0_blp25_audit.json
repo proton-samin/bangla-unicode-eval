@@ -1,0 +1,96 @@
+{
+  "source": "https://github.com/AridHasan/blp25_task1",
+  "license": "CC BY-NC-SA 4.0",
+  "files": {
+    "train": {
+      "name": "blp25_hatespeech_subtask_1A_train.tsv",
+      "sha256": "b93e91f882bad10781296cfebb862eca870c3c70c26c2f85bd8c41c94c79e465",
+      "rows": 35522,
+      "columns": [
+        "id",
+        "text",
+        "label"
+      ]
+    },
+    "val": {
+      "name": "blp25_hatespeech_subtask_1A_dev.tsv",
+      "sha256": "d53d99f3cba417a1497a20bccfacb5d2cc830f67db8e9c0f28278fca8327be3d",
+      "rows": 2512,
+      "columns": [
+        "id",
+        "text",
+        "label"
+      ]
+    },
+    "test": {
+      "name": "blp25_hatespeech_subtask_1A_test_with_labels.tsv",
+      "sha256": "cdd8e64cfd58787d74cad23c14d2aed17c025c31b64fec4fbc1829c8321714af",
+      "rows": 10200,
+      "columns": [
+        "id",
+        "text",
+        "label"
+      ]
+    }
+  },
+  "splits": {
+    "train": {
+      "rows": 35522,
+      "raw_label_counts": {
+        "None": 19954,
+        "Abusive": 8212,
+        "Profane": 2331,
+        "Religious Hate": 676,
+        "Political Hate": 4227,
+        "Sexism": 122
+      },
+      "harmful_share": 0.4383,
+      "with_zero_width": 0,
+      "with_url": 0,
+      "short_lt10_chars": 23,
+      "len_median": 51.0
+    },
+    "val": {
+      "rows": 2512,
+      "raw_label_counts": {
+        "Political Hate": 291,
+        "Abusive": 564,
+        "None": 1451,
+        "Profane": 157,
+        "Sexism": 11,
+        "Religious Hate": 38
+      },
+      "harmful_share": 0.4224,
+      "with_zero_width": 0,
+      "with_url": 0,
+      "short_lt10_chars": 2,
+      "len_median": 51.0
+    },
+    "test": {
+      "rows": 10200,
+      "raw_label_counts": {
+        "Abusive": 2312,
+        "None": 5751,
+        "Profane": 709,
+        "Religious Hate": 179,
+        "Political Hate": 1220,
+        "Sexism": 29
+      },
+      "harmful_share": 0.4362,
+      "with_zero_width": 0,
+      "with_url": 0,
+      "short_lt10_chars": 8,
+      "len_median": 52.0
+    }
+  },
+  "label_mapping": {
+    "None": 0,
+    "other": 1
+  },
+  "duplicates": {
+    "canonical_groups": 2,
+    "groups_crossing_splits": 0,
+    "test_rows_with_train_twin": 0,
+    "label_conflict_groups": 0
+  }
+}

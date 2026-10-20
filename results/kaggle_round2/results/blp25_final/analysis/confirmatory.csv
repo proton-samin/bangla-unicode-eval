@@ -1,0 +1,56 @@
+hypothesis,k,n,estimate,p_raw,p_holm,reject_at_0.05,model
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,859.0,0.0,1.0,1.0,False,Hate-speech-CNERG/bengali-abusive-MuRIL
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,Hate-speech-CNERG/bengali-abusive-MuRIL
+"H1/H2 F5: evasion > 1% at budget 3, D0",2.0,22.0,0.09090909090909091,0.020229279452277128,0.08091711780910851,False,Hate-speech-CNERG/bengali-abusive-MuRIL
+H3 F5: BN-norm evasion < D0 evasion (McNemar),2.0,2.0,0.09090909090909091,0.5,1.0,False,Hate-speech-CNERG/bengali-abusive-MuRIL
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,0.009812579727208615,,,True,Hate-speech-CNERG/bengali-abusive-MuRIL
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,1355.0,0.0,1.0,1.0,False,/kaggle/working/models/banglabert_seed1
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,1.0,-0.0007380073800738007,1.0,1.0,False,/kaggle/working/models/banglabert_seed1
+"H1/H2 F5: evasion > 1% at budget 3, D0",0.0,34.0,0.0,1.0,1.0,False,/kaggle/working/models/banglabert_seed1
+H3 F5: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,/kaggle/working/models/banglabert_seed1
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,-0.1275635364537342,,,True,/kaggle/working/models/banglabert_seed1
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,1456.0,0.0,1.0,1.0,False,/kaggle/working/models/banglabert_seed2
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,1.0,-0.0006868131868131869,1.0,1.0,False,/kaggle/working/models/banglabert_seed2
+"H1/H2 F5: evasion > 1% at budget 3, D0",0.0,40.0,0.0,1.0,1.0,False,/kaggle/working/models/banglabert_seed2
+H3 F5: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,/kaggle/working/models/banglabert_seed2
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,0.009812579727208615,,,True,/kaggle/working/models/banglabert_seed2
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,1522.0,0.0,1.0,1.0,False,/kaggle/working/models/banglabert_seed3
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,/kaggle/working/models/banglabert_seed3
+"H1/H2 F5: evasion > 1% at budget 3, D0",5.0,41.0,0.12195121951219512,5.551890743370288e-05,0.00022207562973481152,True,/kaggle/working/models/banglabert_seed3
+H3 F5: BN-norm evasion < D0 evasion (McNemar),5.0,5.0,0.12195121951219512,0.0625,0.1875,False,/kaggle/working/models/banglabert_seed3
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,-0.0686880580904714,,,False,/kaggle/working/models/banglabert_seed3
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,1358.0,0.0,1.0,1.0,False,/kaggle/working/models/muril_seed1
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,/kaggle/working/models/muril_seed1
+"H1/H2 F5: evasion > 1% at budget 3, D0",2.0,33.0,0.06060606060606061,0.043025956535633195,0.17210382614253278,False,/kaggle/working/models/muril_seed1
+H3 F5: BN-norm evasion < D0 evasion (McNemar),2.0,2.0,0.06060606060606061,0.5,1.0,False,/kaggle/working/models/muril_seed1
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,-0.029437739181636946,,,True,/kaggle/working/models/muril_seed1
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,1379.0,0.0,1.0,1.0,False,/kaggle/working/models/muril_seed2
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,2.0,-0.0014503263234227702,1.0,1.0,False,/kaggle/working/models/muril_seed2
+"H1/H2 F5: evasion > 1% at budget 3, D0",1.0,32.0,0.03125,0.27501966404214634,1.0,False,/kaggle/working/models/muril_seed2
+H3 F5: BN-norm evasion < D0 evasion (McNemar),1.0,1.0,0.03125,1.0,1.0,False,/kaggle/working/models/muril_seed2
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,0.05887547836326279,,,True,/kaggle/working/models/muril_seed2
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,1417.0,0.0,1.0,1.0,False,/kaggle/working/models/muril_seed3
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,2.0,-0.0014114326040931546,1.0,1.0,False,/kaggle/working/models/muril_seed3
+"H1/H2 F5: evasion > 1% at budget 3, D0",2.0,36.0,0.05555555555555555,0.050345611750581214,0.20138244700232485,False,/kaggle/working/models/muril_seed3
+H3 F5: BN-norm evasion < D0 evasion (McNemar),2.0,2.0,0.05555555555555555,0.5,1.0,False,/kaggle/working/models/muril_seed3
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,0.03925031890884556,,,True,/kaggle/working/models/muril_seed3
+"H1/H2 F2: evasion > 1% at budget 3, D0",120.0,1379.0,0.08701957940536621,1.4409407727385624e-70,5.7637630909542496e-70,True,/kaggle/working/models/xlmr_seed1
+H3 F2: BN-norm evasion < D0 evasion (McNemar),120.0,120.0,0.08701957940536621,1.504632769052528e-36,4.513898307157584e-36,True,/kaggle/working/models/xlmr_seed1
+"H1/H2 F5: evasion > 1% at budget 3, D0",1.0,33.0,0.030303030303030304,0.2822694674017249,0.5645389348034499,False,/kaggle/working/models/xlmr_seed1
+H3 F5: BN-norm evasion < D0 evasion (McNemar),1.0,1.0,0.030303030303030304,1.0,1.0,False,/kaggle/working/models/xlmr_seed1
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,-0.03925031890884556,,,True,/kaggle/working/models/xlmr_seed1
+"H1/H2 F2: evasion > 1% at budget 3, D0",119.0,1390.0,0.0856115107913669,3.27470385974853e-69,1.309881543899412e-68,True,/kaggle/working/models/xlmr_seed2
+H3 F2: BN-norm evasion < D0 evasion (McNemar),119.0,119.0,0.0856115107913669,3.009265538105056e-36,9.027796614315168e-36,True,/kaggle/working/models/xlmr_seed2
+"H1/H2 F5: evasion > 1% at budget 3, D0",0.0,34.0,0.0,1.0,1.0,False,/kaggle/working/models/xlmr_seed2
+H3 F5: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,/kaggle/working/models/xlmr_seed2
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,-0.01962515945442833,,,True,/kaggle/working/models/xlmr_seed2
+"H1/H2 F2: evasion > 1% at budget 3, D0",134.0,1426.0,0.09396914446002805,9.005983471853714e-83,3.6023933887414857e-82,True,/kaggle/working/models/xlmr_seed3
+H3 F2: BN-norm evasion < D0 evasion (McNemar),134.0,134.0,0.09396914446002805,9.183549615799121e-41,2.7550648847397363e-40,True,/kaggle/working/models/xlmr_seed3
+"H1/H2 F5: evasion > 1% at budget 3, D0",0.0,35.0,0.0,1.0,1.0,False,/kaggle/working/models/xlmr_seed3
+H3 F5: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,/kaggle/working/models/xlmr_seed3
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,-0.029437739181636946,,,True,/kaggle/working/models/xlmr_seed3
+"H1/H2 F2: evasion > 1% at budget 3, D0",0.0,3437.0,0.0,1.0,1.0,False,tajuarAkash/enhanced-banglabert-hate-speech
+H3 F2: BN-norm evasion < D0 evasion (McNemar),0.0,0.0,0.0,1.0,1.0,False,tajuarAkash/enhanced-banglabert-hate-speech
+"H1/H2 F5: evasion > 1% at budget 3, D0",1.0,98.0,0.01020408163265306,0.6265357195457306,1.0,False,tajuarAkash/enhanced-banglabert-hate-speech
+H3 F5: BN-norm evasion < D0 evasion (McNemar),1.0,1.0,0.01020408163265306,1.0,1.0,False,tajuarAkash/enhanced-banglabert-hate-speech
+H4: BN-norm clean accuracy drop and FPR increase <= 0.5 pp (CI upper bounds),,,0.049062898636054175,,,True,tajuarAkash/enhanced-banglabert-hate-speech

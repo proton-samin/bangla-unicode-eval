@@ -1,0 +1,168 @@
+{
+  "files": {
+    "train": {
+      "sha256": "116c9e9eb7432dff1d50f8cb5cb64a02cf9b8e63caac22fba53d978b1c345ec5",
+      "bytes": 8161823,
+      "rows": 40224,
+      "columns": [
+        "sentence",
+        "target",
+        "type",
+        "hate speech",
+        "split"
+      ]
+    },
+    "val": {
+      "sha256": "67995e80777818a1722b77cd577951f8ffb44d0503b7c659eb7a364b4c165bb4",
+      "bytes": 986927,
+      "rows": 5028,
+      "columns": [
+        "sentence",
+        "target",
+        "type",
+        "hate speech",
+        "split"
+      ]
+    },
+    "test": {
+      "sha256": "4543a005555ee466a741a4d4d427f1d5b813237366011ef4059700a35115ab5f",
+      "bytes": 1005613,
+      "rows": 5029,
+      "columns": [
+        "sentence",
+        "target",
+        "type",
+        "hate speech",
+        "split"
+      ]
+    }
+  },
+  "splits": {
+    "test": {
+      "rows": 5029,
+      "label_counts": {
+        "0": 2613,
+        "1": 2416
+      },
+      "harmful_share": 0.4804,
+      "len_chars_quantiles": {
+        "0.05": 12.0,
+        "0.25": 25.0,
+        "0.5": 44.0,
+        "0.75": 80.0,
+        "0.95": 208.0
+      },
+      "short_lt10_chars": 123,
+      "with_zero_width": 42,
+      "zero_width_chars_total": 133,
+      "with_url": 2,
+      "with_emoji": 27,
+      "with_assamese_letters": 22,
+      "bengali_frac_lt_0_5": 9,
+      "changed_by_prepare_original": 569
+    },
+    "train": {
+      "rows": 40224,
+      "label_counts": {
+        "0": 20900,
+        "1": 19324
+      },
+      "harmful_share": 0.4804,
+      "len_chars_quantiles": {
+        "0.05": 13.0,
+        "0.25": 26.0,
+        "0.5": 44.0,
+        "0.75": 81.0,
+        "0.95": 212.0
+      },
+      "short_lt10_chars": 855,
+      "with_zero_width": 299,
+      "zero_width_chars_total": 972,
+      "with_url": 16,
+      "with_emoji": 240,
+      "with_assamese_letters": 156,
+      "bengali_frac_lt_0_5": 88,
+      "changed_by_prepare_original": 4714
+    },
+    "val": {
+      "rows": 5028,
+      "label_counts": {
+        "0": 2612,
+        "1": 2416
+      },
+      "harmful_share": 0.4805,
+      "len_chars_quantiles": {
+        "0.05": 12.0,
+        "0.25": 25.0,
+        "0.5": 44.0,
+        "0.75": 79.0,
+        "0.95": 197.64999999999964
+      },
+      "short_lt10_chars": 112,
+      "with_zero_width": 29,
+      "zero_width_chars_total": 92,
+      "with_url": 0,
+      "with_emoji": 21,
+      "with_assamese_letters": 20,
+      "bengali_frac_lt_0_5": 8,
+      "changed_by_prepare_original": 559
+    }
+  },
+  "duplicates": {
+    "exact": {
+      "duplicate_groups": 4,
+      "groups_within_split": {
+        "train": 2
+      },
+      "groups_crossing_splits": 2,
+      "label_conflict_groups": 0,
+      "test_rows_with_a_train_twin": 2,
+      "val_rows_with_a_train_twin": 0
+    },
+    "canonical": {
+      "duplicate_groups": 21,
+      "groups_within_split": {
+        "train": 16
+      },
+      "groups_crossing_splits": 5,
+      "label_conflict_groups": 2,
+      "test_rows_with_a_train_twin": 2,
+      "val_rows_with_a_train_twin": 3
+    }
+  },
+  "characters": {
+    "zero_width_by_codepoint": {
+      "U+200C": 1038,
+      "U+200D": 144,
+      "U+200B": 10,
+      "U+00AD": 5
+    },
+    "punctuation_counts": {
+      ".": 2612,
+      "?": 3653,
+      "।": 20151,
+      "!": 3257,
+      ",": 4165,
+      "-": 480,
+      ":": 165,
+      "|": 68
+    },
+    "f1_canonical_sites_total": {
+      "\\u09af\\u09bc": 0,
+      "\\u09a1\\u09bc": 0,
+      "\\u09a2\\u09bc": 0,
+      "\\u09cb": 60992,
+      "\\u09cc": 1002
+    },
+    "sentences_with_ra_or_ba": 47513
+  },
+  "evaluation_pool": {
+    "test_rows": 5029,
+    "eligible_rows": 4897,
+    "eligible_label_counts": {
+      "0": 2516,
+      "1": 2381
+    },
+    "rule": "test split, >=10 chars, >=50% Bengali code points, no URL"
+  }
+}

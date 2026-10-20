@@ -1,0 +1,38 @@
+{
+  "args": {
+    "base": "xlm-roberta-base",
+    "seed": 1,
+    "out": "/kaggle/working/models/xlmr_seed1",
+    "epochs": 3,
+    "lr": 2e-05,
+    "bs": 32,
+    "max_length": 128,
+    "limit": 0,
+    "dataset": "bdshs"
+  },
+  "device": "cuda",
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 0.3512507527473908,
+      "val_macro_f1": 0.9116367004646225,
+      "val_acc": 0.9118933969769292,
+      "seconds": 334.19168877601624
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.22023334713947612,
+      "val_macro_f1": 0.9134802944940614,
+      "val_acc": 0.9134844868735084,
+      "seconds": 336.8633830547333
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.1822177736931788,
+      "val_macro_f1": 0.9184175954711373,
+      "val_acc": 0.9184566428003182,
+      "seconds": 337.21443152427673
+    }
+  ],
+  "best_val_macro_f1": 0.9184175954711373
+}

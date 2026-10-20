@@ -1,0 +1,530 @@
+{
+  "F1:\\u09cb": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F1:\\u09cc": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F1:\\u09dc": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F1:\\u09dd": {
+    "per_font": {
+      "kalpurush": {
+        "n": 4,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 4,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 4,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F1:\\u09df": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F2:shy": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F2:wj": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F2:zwj": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F2:zwnj": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F2:zwsp": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F2nbsp": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "median_diff_fraction": 0.0
+      }
+    },
+    "fonts_passing": 3,
+    "admitted": true
+  },
+  "F3:ব": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 0.033,
+        "identical_or_near": 0.033,
+        "median_diff_fraction": 0.1726
+      },
+      "noto": {
+        "n": 60,
+        "identical": 0.033,
+        "identical_or_near": 0.033,
+        "median_diff_fraction": 0.0037
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.2606
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F3:র": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 0.067,
+        "identical_or_near": 0.067,
+        "median_diff_fraction": 0.0907
+      },
+      "noto": {
+        "n": 60,
+        "identical": 0.067,
+        "identical_or_near": 0.067,
+        "median_diff_fraction": 0.0041
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.1927
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F4:!": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0902
+      },
+      "noto": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0691
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0918
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F4:,": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.5834
+      },
+      "noto": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.2278
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.5726
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F4:-": {
+    "per_font": {
+      "kalpurush": {
+        "n": 30,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.5847
+      },
+      "noto": {
+        "n": 30,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.2213
+      },
+      "solaiman": {
+        "n": 30,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.5603
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F4:.": {
+    "per_font": {
+      "kalpurush": {
+        "n": 46,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.4516
+      },
+      "noto": {
+        "n": 46,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.4239
+      },
+      "solaiman": {
+        "n": 46,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.4367
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F4::": {
+    "per_font": {
+      "kalpurush": {
+        "n": 8,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0565
+      },
+      "noto": {
+        "n": 8,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0491
+      },
+      "solaiman": {
+        "n": 8,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0542
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F4:?": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0978
+      },
+      "noto": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0809
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0899
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F4:|": {
+    "per_font": {
+      "kalpurush": {
+        "n": 4,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.3848
+      },
+      "noto": {
+        "n": 4,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.4145
+      },
+      "solaiman": {
+        "n": 4,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.4211
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F4:।": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.062
+      },
+      "noto": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.062
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.0268
+      }
+    },
+    "fonts_passing": 0,
+    "admitted": false
+  },
+  "F5:khanda_ta": {
+    "per_font": {
+      "kalpurush": {
+        "n": 60,
+        "identical": 0.967,
+        "identical_or_near": 0.967,
+        "median_diff_fraction": 0.0
+      },
+      "noto": {
+        "n": 60,
+        "identical": 0.967,
+        "identical_or_near": 0.967,
+        "median_diff_fraction": 0.0
+      },
+      "solaiman": {
+        "n": 60,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "median_diff_fraction": 0.4395
+      }
+    },
+    "fonts_passing": 2,
+    "admitted": true
+  }
+}

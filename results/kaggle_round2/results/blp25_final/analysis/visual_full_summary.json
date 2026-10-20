@@ -1,0 +1,227 @@
+{
+  "F1": {
+    "3": {
+      "kalpurush": {
+        "n": 8303,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "noto": {
+        "n": 8303,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 8303,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      }
+    }
+  },
+  "F2": {
+    "3": {
+      "kalpurush": {
+        "n": 10191,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "noto": {
+        "n": 10191,
+        "identical": 0.9991,
+        "identical_or_near": 0.9992,
+        "perceptible": 8,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 10191,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      }
+    }
+  },
+  "F2_shy": {
+    "3": {
+      "kalpurush": {
+        "n": 10191,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "noto": {
+        "n": 10191,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 10191,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      }
+    }
+  },
+  "F2_wj": {
+    "3": {
+      "kalpurush": {
+        "n": 10191,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "noto": {
+        "n": 10191,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 10191,
+        "identical": 1.0,
+        "identical_or_near": 1.0,
+        "perceptible": 0,
+        "errors": 0
+      }
+    }
+  },
+  "F2_zwj": {
+    "3": {
+      "kalpurush": {
+        "n": 10191,
+        "identical": 0.9999,
+        "identical_or_near": 0.9999,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 10191,
+        "identical": 0.9999,
+        "identical_or_near": 0.9999,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 10191,
+        "identical": 0.9999,
+        "identical_or_near": 0.9999,
+        "perceptible": 1,
+        "errors": 0
+      }
+    }
+  },
+  "F2_zwnj": {
+    "3": {
+      "kalpurush": {
+        "n": 10191,
+        "identical": 0.9999,
+        "identical_or_near": 0.9999,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 10191,
+        "identical": 0.9965,
+        "identical_or_near": 0.9968,
+        "perceptible": 33,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 10191,
+        "identical": 0.9999,
+        "identical_or_near": 0.9999,
+        "perceptible": 1,
+        "errors": 0
+      }
+    }
+  },
+  "F2_zwsp": {
+    "3": {
+      "kalpurush": {
+        "n": 10191,
+        "identical": 0.9999,
+        "identical_or_near": 0.9999,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "noto": {
+        "n": 10191,
+        "identical": 0.9999,
+        "identical_or_near": 0.9999,
+        "perceptible": 1,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 10191,
+        "identical": 0.9999,
+        "identical_or_near": 0.9999,
+        "perceptible": 1,
+        "errors": 0
+      }
+    }
+  },
+  "F2nbsp": {
+    "3": {
+      "kalpurush": {
+        "n": 10191,
+        "identical": 0.9995,
+        "identical_or_near": 0.9995,
+        "perceptible": 5,
+        "errors": 0
+      },
+      "noto": {
+        "n": 10191,
+        "identical": 0.9995,
+        "identical_or_near": 0.9995,
+        "perceptible": 5,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 10191,
+        "identical": 0.9995,
+        "identical_or_near": 0.9995,
+        "perceptible": 5,
+        "errors": 0
+      }
+    }
+  },
+  "F5": {
+    "3": {
+      "kalpurush": {
+        "n": 267,
+        "identical": 0.97,
+        "identical_or_near": 0.97,
+        "perceptible": 8,
+        "errors": 0
+      },
+      "noto": {
+        "n": 267,
+        "identical": 0.97,
+        "identical_or_near": 0.97,
+        "perceptible": 8,
+        "errors": 0
+      },
+      "solaiman": {
+        "n": 267,
+        "identical": 0.0,
+        "identical_or_near": 0.0,
+        "perceptible": 267,
+        "errors": 0
+      }
+    }
+  }
+}
